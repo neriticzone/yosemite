@@ -1,4 +1,6 @@
 # yosemite
+Web scraper that checks three yosemite valley campsites (upper/lower/north pintes) and sees if there is availablility for a given date/time. 
+
 test_runnner runs the scraper and emailer. script runs continuously, scheduled to run every hour. Checks port to see if its running or not. I don't really understand it but it works.
 
 campsite_public file contains the scraper and inserts into a database 
